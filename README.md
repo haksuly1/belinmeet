@@ -10,6 +10,9 @@
 ## NOTE
 #### The project could be configured to show the list of registered attendees to users when they visit the link to register. However, for this particular project, the details of registered attendees are only visible in the database.
 
+## README
+#### The README.md was implemented with Markdown (Auto Open Markdown Preview Extension for VSCode)
+
 ### PROCEDURES
 > Set up project
 
@@ -33,11 +36,18 @@
 
 [CSS](https://css-tricks.com/ "CSS")
 
+## MARKDOWN
+![Markdown](https://markdown-here.com/img/icon256.png "markdown")
 
 
 
+## PROJECT SCREENSHOT
+<div class="row py-5 justify-content-center">
+          <img src="assets/img/projectscreenshot.jpeg" class="image img-fluid rounded-circle" alt="Responsive image" />
+        </div>
 
-
-
-
+## PROJECT DATABASE SCREENSHOT
+<div class="row py-5 justify-content-center">
+          <img src="assets/img/projectdatabasescreenshot.jpeg" class="image img-fluid rounded-circle" alt="Responsive image" />
+        </div>
 
