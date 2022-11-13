@@ -52,11 +52,15 @@ ___
 [CSS](https://css-tricks.com/ "CSS")
 
 ___
+
+[Markdown Guide](https://www.markdownguide.org/ "Markdown Guide")
+
+___
 [Access project in browser](https://eclectic-cupcake-180432.netlify.app/ "Project in browser")
 
 #### This is simply to show how the form looks like in browser.
 
-#### Implemented vis NETLIFY
+#### Implemented via NETLIFY
 
 ___
 
