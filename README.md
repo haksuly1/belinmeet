@@ -8,7 +8,9 @@
 ___
 
 ## NOTE
-#### The project could be configured to show the list of registered attendees to users when they visit the link to register. However, for this particular project, the details of registered attendees are only visible in the database.
+#### The project could be configured to show the list of registered attendees to users when they visit the link to register right in the browser. However, for this particular project, the details of registered attendees would only be visible in the database.
+
+#### Also note that visiting and testing the form on your browser - on NETLIFY & GITHUB PAGES [https://haksuly1.github.io/berlinmeet](https://haksuly1.github.io/berlinmeet) and [https://eclectic-cupcake-180432.netlify.app/](https://eclectic-cupcake-180432.netlify.app/) is only possible if the database is connected to a live server, example.... (CLOUDWAYS).Note that this project is not connected to a live server because it is basically aimed at demonstrating a process.
 
 ___
 
