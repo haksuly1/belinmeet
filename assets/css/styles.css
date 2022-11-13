@@ -11,3 +11,7 @@ margin: none;
 .container {
   background-color: gray;
 }
+
+.heading {
+  color: rgb(10, 245, 10);
+}
